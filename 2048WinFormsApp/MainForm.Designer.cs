@@ -84,7 +84,7 @@
             Controls.Add(scoreLabel);
             Controls.Add(label2);
             Name = "MainForm";
-            Text = "Form1";
+            Text = "2048. Игра";
             Load += Form1_Load;
             KeyDown += MainForm_KeyDown;
             ResumeLayout(false);
